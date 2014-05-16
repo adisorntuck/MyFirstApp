@@ -16,7 +16,10 @@ public class MyFirstApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      System.out.println("Hello World");
+      System.out.println("My name is Adisorn Chamkarmol");
+      System.out.println("คอมพิวเตอรืเครื่อนที่");
+       System.out.println("University of phayao");
+      
     }
     
 }
